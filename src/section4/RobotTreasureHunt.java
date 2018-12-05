@@ -64,6 +64,7 @@ mini.microMove(15);
 	else if (robotXLocation == 585 && robotYLocation == 345 ) {
 		JOptionPane.showInputDialog("Grab the sword!");
 	}
+	else if ()
 		// 8. Give the user subsequent clues at different locations on the image
 		// (pirate robot, swamp, parrots, etc.)
 		
